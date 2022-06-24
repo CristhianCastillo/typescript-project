@@ -2,8 +2,8 @@
 
 
 ## Commands
-npm init -y
-npm install typescript --save-dev --> Install typescript for node project (Local).
+* npm init -y
+* npm install typescript --save-dev --> Install typescript for node project (Local).
 npx tsc --version
 npx tsc src/demo.ts --target es6
 npx tsc src/demo.ts --target es6 --outDir dist
