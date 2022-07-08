@@ -10,3 +10,7 @@
 * npx tsc --init --> Create tsconfig file for TypeScript
 * npx tsc --> Will read tsconfig file and use it to generate .js files from .ts
 * npx tsc --watch --> Read .ts files searching for changes and making .js files.
+
+## External dependencies
+* npm i --save lodash
+* npm i --save-dev @types/lodash
